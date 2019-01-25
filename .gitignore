@@ -1,0 +1,4 @@
+*.pyc
+*.swp
+tax_selenium/
+geckodriver.log
